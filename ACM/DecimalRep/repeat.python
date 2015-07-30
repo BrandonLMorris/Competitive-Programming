@@ -1,0 +1,9 @@
+seen = []
+for i in range(500):
+    seen.append(False);
+num = 1
+den = 7
+
+result = 1/7
+
+

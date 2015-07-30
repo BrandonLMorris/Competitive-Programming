@@ -1,0 +1,14 @@
+Insertion Sort 1
+Insertion Sort 2
+Correctness and loop invariant
+Running Time of Algorithms
+
+Quicksort 1 - Partition
+Quicksort 2 - Sorting
+Quicksort In-place (Advanced)
+Runing time of QUicksort
+
+Counting Sort 1 - Counting
+Counting Sort 2 - Simple Sort
+Coutning Sort 3 - Preparing
+Full Counting Sort (Advanced)

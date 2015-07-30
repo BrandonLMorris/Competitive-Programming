@@ -1,0 +1,11 @@
+8 4
+####
+#..#
+#+.#
+#b.#
+#..#
+#.b#
+#.W#
+####
+LUUURUULDRDDLURUULDRDDLURUULDRDDLURDDLU
+0 0
