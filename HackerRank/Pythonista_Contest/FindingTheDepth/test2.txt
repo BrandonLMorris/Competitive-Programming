@@ -1,7 +1,0 @@
-6
-<root>
-	<1first><second></second></1first>
-	<2first></2first>
-	<3first><second><third><fourth></fourth></third></second></3first>
-	<4first><second></second></4first>
-</root>

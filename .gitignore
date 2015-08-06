@@ -1,0 +1,2 @@
+# Ignore text files - They're usually just test and judge inputs
+*.txt

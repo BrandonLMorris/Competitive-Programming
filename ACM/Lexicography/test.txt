@@ -1,4 +1,0 @@
-ACM 5
-ICPC 12
-REGION 274
-# 0

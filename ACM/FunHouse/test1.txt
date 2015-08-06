@@ -1,8 +1,0 @@
-11 6
-xxxxxxxxxxx
-x../..\...x
-x..../....x
-*../......x
-x.........x
-xxxxxxxxxxx
-0 0

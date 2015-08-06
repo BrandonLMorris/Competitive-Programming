@@ -1,3 +1,0 @@
-//Prime number generator
-//generates prime numbers up to a specific value, stores in array list
-//designed to test timing for Sherlock and GCD problem (HackerRank)
