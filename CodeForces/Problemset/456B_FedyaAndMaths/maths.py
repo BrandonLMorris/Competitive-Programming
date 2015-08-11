@@ -22,7 +22,8 @@ if __name__ == "__main__":
 
     exponent = exponent % 4
 
-    result = pow(1, exponent) + pow(2, exponent) + pow(3, exponent) + pow(4, exponent)
+    result = pow(1, exponent) + pow(2, exponent) + pow(3, exponent) + \
+            pow(4, exponent)
     result = result % 5
 
     print(result)
