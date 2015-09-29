@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Army {
+public class ArmyEasy {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     int numTests = Integer.parseInt(in.nextLine());
