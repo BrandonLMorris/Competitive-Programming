@@ -7,17 +7,17 @@ public class Guess {
     StringTokenizer st;
     String response = "";
     int guess = 500;
-    int prev = 500;
+    int upper = 1000;
+    int lower = 1;
     System.out.println(guess);
     response = in.readLine();
-    while (!response.contains("correct")) {
-      if (response.contains("lower")) {
-        guess = guess - (int)Math.ceil(prev/2.0);
-        prev = (int)Math.ceil(prev/2.0);
+    while (!(response.charAt(0) == 'c')) {
+      if (response.charAt(0) == 'l') {
+        upper = guess - 1;
+        guess = (lower + upper) / 2;
       } else {
-        guess = guess + (int)Math.ceil(prev/2.0);
-        prev = (int)Math.ceil(prev/2.0);
-        if (guess > 100) guess = 100;
+        lower = guess + 1;
+        guess = (lower + upper) / 2;
       }
       System.out.println(guess);
       response = in.readLine();
